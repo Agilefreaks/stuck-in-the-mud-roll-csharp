@@ -1,5 +1,5 @@
 ## Dependencies
-[.NET Core 3.1.101](https://docs.microsoft.com/ro-ro/dotnet/core/install/linux)
+[.NET 5.0](https://docs.microsoft.com/ro-ro/dotnet/core/install/linux)
 
 ## Run tests
 ```
